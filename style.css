@@ -1,0 +1,53 @@
+body {
+    background-color: black;
+    font-family: 'Cinzel Decorative', cursive;
+}
+
+.header_div{
+    background-color: violet;
+}
+
+h2 {
+    color: black;
+    font-size:30;
+}
+
+p {
+    color: grey;
+    font-size: 12px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 2px;
+}
+
+.main_div button {
+    margin-top: 30px;
+    letter-spacing: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    width: 150px;
+    color:violet;
+}
+
+.copy_right_footer{
+    bottom: 0;
+    position: fixed;
+    text-align: center;
+    letter-spacing: 2px;
+    font-family: 'Roboto' , sans-serif;
+    text-shadow: 5px 5px 5px #979595;
+    background-color: violet;
+    line-height: 3;
+    width: 100%;
+    font-weight: bold;
+}
+
+h4 {
+    color: darkmagenta;
+    font-family: 'Roboto' , sans-serif;
+}
+
+img {
+    width:300;
+    height:300;
+}
